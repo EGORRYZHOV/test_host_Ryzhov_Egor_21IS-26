@@ -1,0 +1,44 @@
+.body{
+    width: 98%;
+    margin: auto;
+    margin-right: auto;
+}
+.HEAD_1{
+    background-color: pink;
+}
+.BLOCK_1{
+    width: 100%;
+    background-color: brown;
+    font-size: xx-large;
+    color: white;
+}
+.BLOCK_5{
+    margin-left: 500px;
+    font-size: x-large;
+    margin-top: -50px;
+}
+.IMG_1{
+    width: 60px;
+    height: 45px;
+    margin-left: 390px;
+    margin-top: -66px;
+}
+.BLOCK_6_1{
+    border:  1px solid black;
+    width: 2115px;
+}
+.katalog{
+    text-align: center;
+}
+.img_2{
+    width: 10%;
+}
+.img_3{
+    width: 10%;
+}
+.img_4{
+    width: 10%; 
+}
+.foot_1{
+    background-color: azure; 
+}
